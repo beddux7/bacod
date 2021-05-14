@@ -1,4 +1,3 @@
-inurl:php?=id1
 inurl:index.php?id=
 inurl:trainers.php?id=
 inurl:buy.php?category=
