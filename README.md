@@ -18,7 +18,7 @@
     ,|      /     ) [AUTO GRAB DOMAIN BY DORK]
  
 # How To Install
-    # git clone https://github.com/beddux7/bacod
+    # git clone https://github.com/beddux7/bacod/
     # cd DorkerDomain
     # chmod +x scanner
     # ./scanner
